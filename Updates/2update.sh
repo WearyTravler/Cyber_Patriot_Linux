@@ -18,7 +18,6 @@ sudo apt-get upgrade -y
 wait
 
 
-
 sudo apt-get dist-upgrade -y
 wait
 
